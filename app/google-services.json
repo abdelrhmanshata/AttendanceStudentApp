@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083451916220",
+    "project_id": "attendancestudent-a9050",
+    "storage_bucket": "attendancestudent-a9050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083451916220:android:7849b64fb487a529f9b5b9",
+        "android_client_info": {
+          "package_name": "com.example.attendancestudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083451916220-elpvi5b78n4p0kr1r4c38m9dh41lp53d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendancestudentapp",
+            "certificate_hash": "c055579f47ac5a2cb29f3af94aef34c83acb1e40"
+          }
+        },
+        {
+          "client_id": "1083451916220-3illmt00h6hvs9hacn0tp65ujom7hjh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgN6MT6TissdSZFRkaj8eYPw3cZCsgXvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083451916220-3illmt00h6hvs9hacn0tp65ujom7hjh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
